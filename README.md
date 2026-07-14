@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @enthusiasticgeek
-- 👀 I’m interested in solving problems and later optimizing them in any programming language whether C/C++, Python, Java, etc. or even HDLs like VHDL. I primarily work on Linux in embedded systems (Love working with Device tree, Linux Drivers, Yocto, Buildroot). Work experience range on hardware ranging from Nvidia Jetson boards (Xavier AGX/NX, Orin, TX2, Nano, etc), AT91SAM, TI, STM32, etc.
-- 🌱 I’m currently work with Rust, C/C++, Python and Machine Learning. I am also the Chief Architect and co-author (along with Claude Sonnet/Opus) for the Vani compiler (pronounced as Vaa-Nee) & programming language.
-- 💞️ I’m looking to collaborate on any technology that helps solve issues and help improve lives for humans and nature (love plants, animals, birds, and other life on our planet).
-- 📫 How to reach me - message me with good ideas that adhere to the above mentioned traits.
+* 👋 Hi, I'm **@enthusiasticgeek**
+
+* 👀 I'm passionate about solving complex engineering problems and optimizing solutions across multiple programming languages, including **C/C++**, **Python**, **Java**, and hardware description languages such as **VHDL**. My primary focus is **Embedded Linux** development, where I enjoy working with **Device Trees**, **Linux kernel drivers**, **Yocto**, and **Buildroot**.
+
+  I have hands-on experience with a wide range of embedded platforms, including **NVIDIA Jetson** (AGX Xavier, Xavier NX, Orin, TX2, Nano), **Microchip AT91SAM**, **TI SoCs**, **STM32**, and other ARM-based systems. I also enjoy building projects with technologies such as **GStreamer**, **OpenCV**, **OpenGL**, **OpenSSL**, **PyTorch**, **GTK**, **GHDL**, and exploring Embedded Linux, FPGA and bare-metal development.
+
+* 🌱 I'm currently working with **Rust**, **C/C++**, **Python**, and **Machine Learning**. I'm also the **Chief Architect**, lead prompt engineer, and co-author (alongside Claude Sonnet/Opus) of the **Vani** programming language and compiler (pronounced *Vaa-Nee*).
+
+* 💞️ I'm interested in collaborating on projects that leverage technology to solve meaningful real-world problems and create positive impact for people and the natural world. I have a particular appreciation for sustainability, wildlife, and environmental stewardship.
+
+* 📫 Feel free to reach out if you have innovative ideas, interesting embedded systems challenges, or projects aligned with these interests.
+
 
 <!---
 enthusiasticgeek/enthusiasticgeek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
