@@ -4,7 +4,7 @@
 
   I have hands-on experience with a wide range of embedded platforms, including **NVIDIA Jetson** (AGX Xavier, Xavier NX, Orin, TX2, Nano), **Microchip AT91SAM**, **TI SoCs**, **STM32**, and other ARM-based systems. I also enjoy building projects with technologies such as **GStreamer**, **OpenCV**, **OpenGL**, **OpenSSL**, **PyTorch**, **GTK**, **GHDL**, and exploring Embedded Linux, FPGA and bare-metal development.
 
-* 🌱 I'm currently working with **Rust**, **C/C++**, **Python**, and **Machine Learning**. I'm also the **Chief Architect**, lead prompt engineer, and co-author (alongside Claude Sonnet/Opus) of the **Vani** programming language and compiler (pronounced *Vaa-Nee*).
+* 🌱 I'm currently working with **Rust**, **C/C++**, **Python**, and **Machine Learning**. I'm also the **Chief Architect**, lead prompt engineer, and co-author (alongside Anthropic Claude Sonnet/Opus) of the **Vani** programming language and compiler (pronounced *Vaa-Nee*).
 
 * 💞️ I'm interested in collaborating on projects that leverage technology to solve meaningful real-world problems and create positive impact for people and the natural world. I have a particular appreciation for sustainability, wildlife, and environmental stewardship.
 
