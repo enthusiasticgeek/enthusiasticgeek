@@ -1,6 +1,6 @@
 * 👋 Hi, I'm **@enthusiasticgeek**
 
-* 👀 I'm passionate about solving complex engineering problems and optimizing solutions across multiple programming languages, including **C/C++**, **Python**, **Java**, and hardware description languages such as **VHDL**. My primary focus is **Embedded Linux** development, where I enjoy working with **Device Trees**, **Linux kernel drivers**, **Yocto**, and **Buildroot**.
+* 👀 I'm passionate about solving complex engineering problems and optimizing solutions across multiple programming languages, including **C/C++**, **Rust**, **Python**, **Bash**, **Java**, and hardware description languages such as **VHDL**, **Verilog** and **SystemVerilog**. My primary focus is **Embedded Linux** development, where I enjoy working with **Device Trees**, **Linux kernel drivers**, **Yocto**, and **Buildroot**.
 
   I have hands-on experience with a wide range of embedded platforms, including **NVIDIA Jetson** (AGX Xavier, Xavier NX, Orin, TX2, Nano), **Microchip AT91SAM**, **TI SoCs**, **STM32**, and other ARM-based systems. I also enjoy building projects with technologies such as **GStreamer**, **OpenCV**, **OpenGL**, **OpenSSL**, **PyTorch**, **GTK**, **GHDL**, and exploring Embedded Linux, FPGA and bare-metal development.
 
